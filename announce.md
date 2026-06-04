@@ -16,13 +16,13 @@ The organization is in-progress so the content of this page is not final.
 
 FPW'26 events take place from Monday August 24th to Friday August 28th -- same dates as ICFP, but no week-end days.
 
-The planned schedule is as follows:
+The planned schedule is currently as follows:
 
 
-|           | Mon 24th       | Tue 25th | Wed 26th | Thu 27th     | Fri 28th |
-|-----------|----------------|----------|----------|--------------|----------|
-| morning   | HOPE ⅋ FProper | PLMW     | TyDe     | TyDe ⅋ OCaml | ML       |
-| afternoon | HOPE ⅋ FProper | ICFP     | ICFP     | ICFP ⅋ OCaml | ML       |
+|           | Mon 24th               | Tue 25th | Wed 26th | Thu 27th | Fri 28th |
+|-----------|------------------------|----------|----------|----------|----------|
+| morning   | HOPE ⅋ FProper ⅋ OCaml | PLMW     | TyDe     | TyDe     | ML       |
+| afternoon | HOPE ⅋ FProper ⅋ OCaml | ICFP     | ICFP     | ICFP     | ML       |
 
 The "ICFP" slots correspond to an "ICFP watch party": a room will be
 available to watch ICFP talks remotely.
@@ -52,7 +52,6 @@ The following events have expressed an interest in being part of FPW'26:
 
 - the Workshop on [Type-Driven Development (TyDe)](https://tydeworkshop.org/2026)
 
-- the OCaml Workshop 2026
-  ([last year](https://conf.researchr.org/home/icfp-splash-2025/ocaml-2025))
+- the OCaml Workshop 2026 ([CFP](https://discuss.ocaml.org/t/call-for-talk-proposals-ocaml-workshop-2026/18192))
 
 Finally, the [Haskell Symposium](https://www.haskell.org/haskell-symposium/) has confirmed that it would be colocated with ICFP as usual in 2026, with no physical presence in Paris.
