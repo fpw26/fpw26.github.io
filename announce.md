@@ -52,6 +52,6 @@ The following events have expressed an interest in being part of FPW'26:
 
 - the Workshop on [Type-Driven Development (TyDe)](https://tydeworkshop.org/2026)
 
-- the OCaml Workshop 2026 ([CFP](https://discuss.ocaml.org/t/call-for-talk-proposals-ocaml-workshop-2026/18192))
+- the [OCaml Workshop 2026](https://ocaml.org/ocaml-workshop-2026) ([CFP](https://discuss.ocaml.org/t/call-for-talk-proposals-ocaml-workshop-2026/18192))
 
 Finally, the [Haskell Symposium](https://www.haskell.org/haskell-symposium/) has confirmed that it would be colocated with ICFP as usual in 2026, with no physical presence in Paris.
