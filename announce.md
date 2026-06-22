@@ -11,7 +11,7 @@ a series of small colocated events around Functional Programming in 2026 in *Par
 
 ## Registration
 
-Registration is *free* but **mandatory** -- to ensure that room limits are respected. The registration deadline is **July 24th**.
+Registration is *free* but **mandatory** -- to ensure that room limits are respected. The registration deadline is **July 24th**: [https://forms.gle/f7fKvJ5RCzaqVHn56](https://forms.gle/f7fKvJ5RCzaqVHn56)
 
 ## Schedule
 
