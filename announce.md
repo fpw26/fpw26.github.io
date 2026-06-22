@@ -9,6 +9,10 @@ pandoc --standalone announce.md > announce.html
 This minimalist webpage provides information on **FPW26**,
 a series of small colocated events around Functional Programming in 2026 in *Paris, France*.
 
+## Registration
+
+Registration is *free* but *mandatory* -- to ensure that room limits are respected. The registration deadline is *July 24th*.
+
 ## Schedule
 
 FPW'26 events take place from Monday August 24th to Friday August 28th.
