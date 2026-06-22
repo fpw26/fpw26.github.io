@@ -7,25 +7,24 @@ pandoc --standalone announce.md > announce.html
 -->
 
 This minimalist webpage provides information on **FPW26**,
-a series of small colocated events around Functional Programming in 2026 in *Paris, France*,
-with some events bi-located with [ICFP'26](https://icfp26.sigplan.org/) in the US.
-
-The organization is in-progress so the content of this page is not final.
+a series of small colocated events around Functional Programming in 2026 in *Paris, France*.
 
 ## Schedule
 
-FPW'26 events take place from Monday August 24th to Friday August 28th -- same dates as ICFP, but no week-end days.
+FPW'26 events take place from Monday August 24th to Friday August 28th.
 
 The planned schedule is currently as follows:
 
 
-|           | Mon 24th               | Tue 25th | Wed 26th | Thu 27th | Fri 28th |
-|-----------|------------------------|----------|----------|----------|----------|
-| morning   | HOPE ⅋ FProper ⅋ OCaml | PLMW     | TyDe     | TyDe     | ML       |
-| afternoon | HOPE ⅋ FProper ⅋ OCaml | ICFP     | ICFP     | ICFP     | ML       |
+|           | Mon 24th     | Tue 25th | Wed 26th | Thu 27th | Fri 28th |
+|-----------|--------------|----------|----------|----------|----------|
+| morning   | HOPE ⅋ OCaml | PLMW     | TyDe     | TyDe     | ML       |
+| afternoon | HOPE ⅋ OCaml | ICFP     | ICFP     | ICFP     | ML       |
 
-The "ICFP" slots correspond to an "ICFP watch party": a room will be
-available to watch ICFP talks remotely.
+The "ICFP" slots correspond to an "ICFP watch party", a room
+where it will be possible to watch some of the talks happening
+at [ICFP 2026](https://icfp26.sigplan.org/) in Indianapolis
+during the same week.
 
 ## Venue
 
@@ -41,14 +40,13 @@ The OCaml workshop is planned to take place at a separate venue (~30mn away)
 
 The following events have expressed an interest in being part of FPW'26:
 
-- [FProPer](https://conf.researchr.org/series/fproper) 2026, the
-  Functional Programming for Productivity and Performance workshop
-
-- the [ML-Family Workshop 2026 (ML)](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#About),
-  which will be bi-located with ICFP 2026. ([CFP](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#Call-for-Presentations))
-
-- the workshop on [Higher-Order Programming with Effects (HOPE)](https://icfp26.sigplan.org/home/hope-2026)
-  which will be bi-located with ICFP 2026. ([CFP](https://icfp26.sigplan.org/home/hope-2026#Call-for-Talk-Proposals))
+- the [ML-Family Workshop 2026 (ML)](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#About)
+([CFP](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#Call-for-Presentations)).
+  The ML workshop takes place across two events, FPW'26 (here)
+  and also ICFP'26.
+  
+- the workshop on [Higher-Order Programming with Effects (HOPE)](https://icfp26.sigplan.org/home/hope-2026),
+  which will also take place in ICFP'26 as well.
 
 - the Workshop on [Type-Driven Development (TyDe)](https://tydeworkshop.org/2026)
 
