@@ -11,7 +11,10 @@ a series of small colocated events around Functional Programming in 2026 in *Par
 
 ## Registration
 
-Registration is *free* but **mandatory** -- to ensure that room limits are respected. The registration deadline is **July 24th**: [https://forms.gle/f7fKvJ5RCzaqVHn56](https://forms.gle/f7fKvJ5RCzaqVHn56)
+For in-person participants, registration is *free* but **mandatory** -- to ensure that room limits are respected. The registration deadline is **July 24th**: [https://forms.gle/f7fKvJ5RCzaqVHn56](https://forms.gle/f7fKvJ5RCzaqVHn56)
+
+We would like to make workshop talks available online as well, on a best-effort basis. Online attendance will be free, and no registration is required.
+(We use registrations to check in-person room capacity and provision coffee, so please do not register to events you plan to attend online only.)
 
 ## Schedule
 
