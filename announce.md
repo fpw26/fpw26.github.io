@@ -11,7 +11,7 @@ a series of small colocated events around Functional Programming in 2026 in *Par
 
 ## Registration
 
-For in-person participants, registration is *free* but **mandatory** -- to ensure that room limits are respected. The registration deadline is **July 24th**: [https://forms.gle/f7fKvJ5RCzaqVHn56](https://forms.gle/f7fKvJ5RCzaqVHn56)
+For in-person participants, registration is *free* but **mandatory** -- to ensure that room limits are respected. The registration deadline was **July 24th**. For last minute registration requests, please send an email to the local organisers.
 
 We would like to make workshop talks available online as well, on a best-effort basis. Online attendance will be free, and no registration is required.
 (We use registrations to check in-person room capacity and provision coffee, so please do not register to events you plan to attend online only.)
@@ -34,13 +34,9 @@ during the same week.
 
 ## Venue
 
-Most workshops will take place at
+All workshops will take place at
 
 > INRIA Paris, 48 rue Barrault, 75013 Paris
-
-The OCaml workshop is planned to take place at a separate venue (~30mn away)
-
-> Amphitéâtre Buffon, 15 rue Hélène Brion, Université Paris Cité, 75013 Paris
 
 ## Hosted events
 
@@ -58,6 +54,19 @@ The following events will happen as part of FPW:
 - the Workshop on [Type-Driven Development (TyDe)](https://tydeworkshop.org/2026)
 
 - the [OCaml Workshop 2026](https://ocaml.org/ocaml-workshop-2026) ([CFP](https://discuss.ocaml.org/t/call-for-talk-proposals-ocaml-workshop-2026/18192))
+
+## Lunch
+
+Given that registration is free, lunch is not provided. There are many restaurants in the area, for instance:
+
+  - [Café Circus](https://maps.app.goo.gl/fkz4vrjvxzgTDR7b9), a typical Parisian bar, serves lunch and dinner and offers a good quality/price ratio.
+  - [Fabbrezza](https://maps.app.goo.gl/f8wS3h3a1pBXKVXF7) makes good pizza.
+  - [La Bonne Heure](https://maps.app.goo.gl/YPycgbF7okozgE1t7) is a tiny vegan/vegetarian place (making a reservation is highly recommended).
+  - [Les Cailloux](https://maps.app.goo.gl/2Xys5fBJBGPyGm8dA) is an unsophisticated trattoria.
+  - [Chez Gladines](https://maps.app.goo.gl/JYBahwc6aRBchbxX7) and [Auberge Etchegorry](https://maps.app.goo.gl/srG7THPwmsj5DnKc6) serve hefty French Sud-Ouest cuisine.
+  - [Lancetta](https://maps.app.goo.gl/pX1VALreMES6V3N77) is a true Italian place; somewhat high-end and expensive.
+  - [Chez Nathalie](https://maps.app.goo.gl/y5QCygsr7hb1fDpKA) serves French cuisine; somewhat high-end and expensive.
+  - [Marso & Co](https://maps.app.goo.gl/dmYBnpWsUTyRBLTC8) serves French cuisine; leans on the chic and expensive side. 
 
 ## Questions
 
