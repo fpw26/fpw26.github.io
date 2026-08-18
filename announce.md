@@ -24,8 +24,8 @@ The planned schedule is currently as follows:
 
 |           | Mon 24th     | Tue 25th | Wed 26th | Thu 27th | Fri 28th |
 |-----------|--------------|----------|----------|----------|----------|
-| morning   | HOPE ⅋ OCaml | PLMW     | TyDe     | TyDe     | ML       |
-| afternoon | HOPE ⅋ OCaml | ICFP     | ICFP     | ICFP     | ML       |
+| morning   | [HOPE](https://icfp26.sigplan.org/home/hope-2026#program) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | PLMW     | [TyDe](https://tydeworkshop.org/2026)     | [TyDe](https://tydeworkshop.org/2026)     | [ML](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#program)       |
+| afternoon | [HOPE](https://icfp26.sigplan.org/home/hope-2026#program) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | ICFP     | ICFP     | ICFP     | [ML](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#program)       |
 
 The "ICFP" slots correspond to an "ICFP watch party", a room
 where it will be possible to watch some of the talks happening
@@ -42,18 +42,18 @@ All workshops will take place at
 
 The following events will happen as part of FPW:
 
+- the workshop on [Higher-Order Programming with Effects (HOPE)](https://icfp26.sigplan.org/home/hope-2026) ([Program](https://icfp26.sigplan.org/home/hope-2026#program)), 
+  HOPE takes place across two events, FPW'26 (here)
+  and also ICFP'26. <br />
+
+- the [OCaml Workshop 2026](https://ocaml.org/ocaml-workshop-2026) ([CFP](https://discuss.ocaml.org/t/call-for-talk-proposals-ocaml-workshop-2026/18192)) (  [Program](https://ocaml.org/ocaml-workshop-2026/schedule))
+
+- the Workshop on [Type-Driven Development (TyDe)](https://tydeworkshop.org/2026) ([Program](https://tydeworkshop.org/2026))
+
 - the [ML-Family Workshop 2026 (ML)](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#About)
-([CFP](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#Call-for-Presentations)).
+([CFP](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#Call-for-Presentations)) ([Program](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#program)).
   The ML workshop takes place across two events, FPW'26 (here)
   and also ICFP'26.
-  
-- the workshop on [Higher-Order Programming with Effects (HOPE)](https://icfp26.sigplan.org/home/hope-2026),
-  HOPE takes place across two events, FPW'26 (here)
-  and also ICFP'26.
-
-- the Workshop on [Type-Driven Development (TyDe)](https://tydeworkshop.org/2026)
-
-- the [OCaml Workshop 2026](https://ocaml.org/ocaml-workshop-2026) ([CFP](https://discuss.ocaml.org/t/call-for-talk-proposals-ocaml-workshop-2026/18192))
 
 ## Lunch
 
