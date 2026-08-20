@@ -24,8 +24,8 @@ The planned schedule is currently as follows:
 
 |           | Mon 24th     | Tue 25th | Wed 26th | Thu 27th | Fri 28th |
 |-----------|--------------|----------|----------|----------|----------|
-| morning   | [HOPE](https://gist.github.com/skymountain/17037f906e896ec9377b5f291682a8c2) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | PLMW     | [TyDe](https://tydeworkshop.org/2026)     | [TyDe](https://tydeworkshop.org/2026)     | [ML](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#program)       |
-| afternoon | [HOPE](https://gist.github.com/skymountain/17037f906e896ec9377b5f291682a8c2) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | ICFP     | ICFP     | ICFP     | [ML](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#program)       |
+| morning   | [HOPE](https://gist.github.com/skymountain/17037f906e896ec9377b5f291682a8c2) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | PLMW     | [TyDe](https://tydeworkshop.org/2026)     | [TyDe](https://tydeworkshop.org/2026)     | [ML](./ml2026-schedule.html)      |
+| afternoon | [HOPE](https://gist.github.com/skymountain/17037f906e896ec9377b5f291682a8c2) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | ICFP     | ICFP     | ICFP     | [ML](./ml2026-schedule.html)       |
 
 The "ICFP" slots correspond to an "ICFP watch party", a room
 where it will be possible to watch some of the talks happening
@@ -51,7 +51,7 @@ The following events will happen as part of FPW:
 - the Workshop on [Type-Driven Development (TyDe)](https://tydeworkshop.org/2026) ([Program](https://tydeworkshop.org/2026))
 
 - the [ML-Family Workshop 2026 (ML)](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#About)
-([CFP](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#Call-for-Presentations)) ([Program](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#program)).
+([CFP](https://icfp26.sigplan.org/home/mlfamilyworkshop-2026#Call-for-Presentations)) ([Program](./ml2026-schedule.html)),
   The ML workshop takes place across two events, FPW'26 (here)
   and also ICFP'26.
 

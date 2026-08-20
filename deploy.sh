@@ -2,8 +2,7 @@
 
 set -x
 
-for file in announce
-do
-    pandoc --standalone $file.md > docs/index.html
-done
+pandoc --standalone announce.md > docs/index.html
+pandoc --standalone ml2026-schedule.md > docs/ml2026-schedule.html
+
 
