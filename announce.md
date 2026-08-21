@@ -57,8 +57,11 @@ The following events will happen as part of FPW:
 
 ## Lunch
 
-Given that registration is free, lunch is not provided. There are many restaurants in the area, for instance:
+Given that registration is free, lunch is not provided. Attendees are invited to form small groups and find food by themselves in the area; organizers have planned longer lunch breaks to compensate.
 
+There are many restaurants in the area, for instance:
+
+  - [Buja Végétarien](https://maps.app.goo.gl/roLYY6DWrASCbCce6) is a vegetarian thai restaurant (with some vietnamese and korean dishes)
   - [Café Circus](https://maps.app.goo.gl/fkz4vrjvxzgTDR7b9), a typical Parisian bar, serves lunch and dinner and offers a good quality/price ratio.
   - [Fabbrezza](https://maps.app.goo.gl/f8wS3h3a1pBXKVXF7) makes good pizza.
   - [La Bonne Heure](https://maps.app.goo.gl/YPycgbF7okozgE1t7) is a tiny vegan/vegetarian place (making a reservation is highly recommended).
@@ -67,6 +70,8 @@ Given that registration is free, lunch is not provided. There are many restauran
   - [Lancetta](https://maps.app.goo.gl/pX1VALreMES6V3N77) is a true Italian place; somewhat high-end and expensive.
   - [Chez Nathalie](https://maps.app.goo.gl/y5QCygsr7hb1fDpKA) serves French cuisine; somewhat high-end and expensive.
   - [Marso & Co](https://maps.app.goo.gl/dmYBnpWsUTyRBLTC8) serves French cuisine; leans on the chic and expensive side. 
+
+We provide a more complete list of recommandations as a shared map: <https://umap.openstreetmap.fr/en/map/fpw26-recommendations_1446520>. It lists restaurants around but also in the broader Paris area, which could include interesting options for dinner as well.
 
 ## PLMW 
 
