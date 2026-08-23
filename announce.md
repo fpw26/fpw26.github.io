@@ -42,7 +42,7 @@ All workshops will take place at
 
 The following events will happen as part of FPW:
 
-- the workshop on [Higher-Order Programming with Effects (HOPE)](https://icfp26.sigplan.org/home/hope-2026) ([Program](https://icfp26.sigplan.org/home/hope-2026#program)), 
+- the workshop on [Higher-Order Programming with Effects (HOPE)](https://icfp26.sigplan.org/home/hope-2026) ([Program](https://gist.github.com/skymountain/17037f906e896ec9377b5f291682a8c2)),
   HOPE takes place across two events, FPW'26 (here)
   and also ICFP'26. <br />
 
