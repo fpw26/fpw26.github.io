@@ -30,7 +30,7 @@ The planned schedule is currently as follows:
 
 |           | Mon 24th     | Tue 25th | Wed 26th | Thu 27th | Fri 28th |
 |-----------|--------------|----------|----------|----------|----------|
-| morning   | [HOPE](https://gist.github.com/skymountain/17037f906e896ec9377b5f291682a8c2) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | [PLMW](#PLMW)     | [TyDe](https://tydeworkshop.org/2026)     | [TyDe](https://tydeworkshop.org/2026)     | [ML](./ml2026-schedule.html)      |
+| morning   | [HOPE](https://gist.github.com/skymountain/17037f906e896ec9377b5f291682a8c2) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | [PLMW](#plmw)     | [TyDe](https://tydeworkshop.org/2026)     | [TyDe](https://tydeworkshop.org/2026)     | [ML](./ml2026-schedule.html)      |
 | afternoon | [HOPE](https://gist.github.com/skymountain/17037f906e896ec9377b5f291682a8c2) ⅋ [OCaml](https://ocaml.org/ocaml-workshop-2026/schedule) | ICFP     | ICFP     | ICFP     | [ML](./ml2026-schedule.html)       |
 
 The "ICFP" slots correspond to an "ICFP watch party", a room
@@ -90,7 +90,11 @@ In the amphiteatre.
 - 09:15-10:00: Using Proof Assistants as More Then Checkers, and How to Write Papers About It -- Yannick Forster, INRIA Paris
 - 10:00-10:30: Coffee break
 - 10:30-11:30: “Checking a large routine” 77 years later: an overview of deductive software verification -- Xavier Leroy, College de France
-- 11:30-12:30: Panel with researchers from academia and industry
+- 11:30-12:30: Panel with researchers from academia and industry: 
+  + Christina Matache (University of Birmingham)
+  + Hugo Paquet (INRIA Paris)
+  + Benoît Montagu (INRIA Rennes)
+  + Sebastien Hinderer (Tarides)
 
 ## Questions
 
