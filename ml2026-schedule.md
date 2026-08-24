@@ -9,8 +9,8 @@ pandoc --standalone ml2026-schedule.md > ml2026-schedule.html
 
 | Title                                                             | Authors                                 | Time in Paris | Time in Indianapolis | presenter location |
 |:------------------------------------------------------------------|:----------------------------------------|:-------------:|:--------------------:|:-------------------|
-| opening (Paris)                                                   |                                         |  09:00-09:15  |                      | FPW                |
-| Flix                                                              | Matthew Lutze                           |  09:15-10:00  |                      | FPW                |
+| opening (Paris)                                                   |                                         |  09:15-09:30  |                      | FPW                |
+| Constraint-Based Everything                                                              | Matthew Lutze                           |  09:30-10:00  |                      | FPW                |
 | (Break)                                                           |                                         |    coffee     |                      |                    |
 | Informed opinion: The Case for Class-Based Functional Programming | Lionel Parreaux                         |  10:30-11:00  |                      | remote             |
 | Contextual MetaML                                                 | Haoxuan Yin, Andrzej Murawski, Luke Ong |  11:00-11:30  |                      | FPW                |
