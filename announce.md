@@ -16,6 +16,12 @@ For in-person participants, registration is *free* but **mandatory** -- to ensur
 We would like to make workshop talks available online as well, on a best-effort basis. Online attendance will be free, and no registration is required.
 (We use registrations to check in-person room capacity and provision coffee, so please do not register to events you plan to attend online only.)
 
+## Online participation
+
+- [Online participation link (all events except OCaml)](https://webinaire.numerique.gouv.fr/meeting/signin/invite/86457/hash/0ac8d75cfd76c000e46c62eda1a2368334c43e57)
+
+- [Online participation link for the OCaml Workshop](https://webinaire.numerique.gouv.fr/meeting/signin/invite/45142/hash/9a0687884090287169e418dc7f10c8980f5a9c23)
+
 ## Schedule
 
 FPW'26 events take place from Monday August 24th to Friday August 28th.
