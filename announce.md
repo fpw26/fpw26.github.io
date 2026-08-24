@@ -44,6 +44,9 @@ All workshops will take place at
 
 > INRIA Paris, 48 rue Barrault, 75013 Paris
 
+HOPE is in room Emmy Noether (immediately right from the entrance, behind the coffee space).
+Every other workshop is in the amphiteatre.
+
 ## Hosted events
 
 The following events will happen as part of FPW:
