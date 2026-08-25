@@ -87,14 +87,14 @@ We provide a more complete list of recommandations as a shared map: <https://uma
 In the amphiteatre.
 
 - 08:45-09:15: Welcome and expectations for the workshop
-- 09:15-10:00: Using Proof Assistants as More Then Checkers, and How to Write Papers About It -- Yannick Forster, INRIA Paris
+- 09:15-10:00: Using Proof Assistants as More Than Checkers, and How to Write Papers About It -- Yannick Forster, INRIA Paris
 - 10:00-10:30: Coffee break
 - 10:30-11:30: “Checking a large routine” 77 years later: an overview of deductive software verification -- Xavier Leroy, College de France
 - 11:30-12:30: Panel with researchers from academia and industry: 
   + Christina Matache (University of Birmingham)
   + Hugo Paquet (INRIA Paris)
   + Benoît Montagu (INRIA Rennes)
-  + Sebastien Hinderer (Tarides)
+  + Sebastien Hinderer (Vates)
 
 ## Questions
 
