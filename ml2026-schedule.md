@@ -10,14 +10,14 @@ pandoc --standalone ml2026-schedule.md > ml2026-schedule.html
 | Title                                                             | Authors                                 | Time in Paris | Time in Indianapolis | presenter location |
 |:------------------------------------------------------------------|:----------------------------------------|:-------------:|:--------------------:|:-------------------|
 | opening (Paris)                                                   |                                         |  09:15-09:30  |                      | FPW                |
-| Constraint-Based Everything                                                              | Matthew Lutze                           |  09:30-10:00  |                      | FPW                |
+| Constraint-Based Everything                                       | Matthew Lutze                           |  09:30-10:00  |                      | FPW                |
 | (Break)                                                           |                                         |    coffee     |                      |                    |
 | Informed opinion: The Case for Class-Based Functional Programming | Lionel Parreaux                         |  10:30-11:00  |                      | remote             |
 | Contextual MetaML                                                 | Haoxuan Yin, Andrzej Murawski, Luke Ong |  11:00-11:30  |                      | FPW                |
 | Compilation for effect handlers                                   | Yizhou Zhang                            |  11:30-12:00  |                      | FPW                |
 | (Break)                                                           |                                         |     lunch     |                      |                    |
-| opening (Indianapolis)                                            | Sam Westrick                            |               |     09:00-09:05      | ICFP               |
-| Keynote: Rhombus                                                  | Matthew Flatt                           |  15:00-15:05  |     09:05-10:00      | ICFP               |
+| opening (Indianapolis)                                            | Sam Westrick                            |  15:00-15:05  |     09:00-09:05      | ICFP               |
+| Keynote: Rhombus                                                  | Matthew Flatt                           |  15:05-16:00  |     09:05-10:00      | ICFP               |
 | Programmable Patterns for OCaml                                   | Oghenevwogaga Ebresafe                  |  16:00-16:30  |     10:00-10:30      | FPW                |
 | (Break)                                                           | coffee                                  |               |        coffee        |
 | Practical Programming with Modal Effect Types                     | Aghilas Boussaa                         |  17:00-17:30  |     11:00-11:30      | FPW                |
